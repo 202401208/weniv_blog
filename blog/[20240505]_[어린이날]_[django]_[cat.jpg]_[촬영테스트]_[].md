@@ -5,18 +5,18 @@
 
 ![고양이 이미지](img/cat.jpg)
 
-'''python
+```python
 print('hello')
-'''
+```
 
-'''py
+```py
 print('hello')
-'''
+```
 
-'''javascript
+```javascript
 console.log('hello')
-'''
+```
 
-'''js
+```js
 console.log('hello')
-'''
+```
