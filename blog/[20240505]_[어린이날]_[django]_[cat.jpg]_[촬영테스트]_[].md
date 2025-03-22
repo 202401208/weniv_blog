@@ -8,15 +8,3 @@
 ```python
 print('hello')
 ```
-
-```py
-print('hello')
-```
-
-```javascript
-console.log('hello')
-```
-
-```js
-console.log('hello')
-```
